@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) Sree Harsha Mamilla.
+ */
+
 Lobesplit is a fun android music player which lets you the user
 listen to two different audio files simultaneously in each earphone.
 
